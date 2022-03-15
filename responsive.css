@@ -23,7 +23,7 @@
   .header-right {
     display: none;
   }
-  .menu-icon {
+  span.menu-icon {
     display: block;
   }
   
